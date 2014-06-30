@@ -3,8 +3,8 @@ package exercise1
 import spec.UnitSpec
 
 class MathFunctionsSpec extends UnitSpec {
-  "square" should {
-    "return 4 when 2 is input" in {
+  "MathFunctions - Square" should {
+    "return 16 when 4 is input" in {
       pending
     }
 
@@ -21,7 +21,7 @@ class MathFunctionsSpec extends UnitSpec {
     }
   }
 
-  "add0Point5" should {
+  "MathFunctions - Add 0.5" should {
     "return 2.5 when 2 is input" in {
       pending
     }

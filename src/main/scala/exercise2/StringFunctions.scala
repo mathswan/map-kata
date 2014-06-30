@@ -1,7 +1,7 @@
-package exercise1
+package exercise2
 
-class MathFunctions {
+class StringFunctions {
 
-  def square(number: Int): Int = ???
+  def toUpper(sentence: String) : String = ???
   //Implementation is missing for this method. Once you have written your first test please write your implementation code
 }
