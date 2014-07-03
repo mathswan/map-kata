@@ -30,7 +30,7 @@ class MathFunctionsSpec extends UnitSpec {
       pending
     }
 
-    "return -1.5, -9.5 when 2, 10 are input" in {
+    "return -1.5, -9.5 when -2, -10 are input" in {
       pending
     }
   }
